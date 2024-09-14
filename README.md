@@ -1,4 +1,4 @@
-Calculator implemented in PHP
+Calculator implemented in PHP/HTML/CSS
 
 Preview->
 ![image](https://github.com/user-attachments/assets/41610dec-17cc-4274-99c7-444737bd7f39)
